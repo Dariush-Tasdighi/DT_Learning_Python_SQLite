@@ -14,9 +14,13 @@
 
 # SQLite Browser
 
+- VS Code Extension: (پیشنهاد می‌کنم)
+    - SQLite Viewer
+    - https://marketplace.visualstudio.com/items?itemName=qwtel.sqlite-viewer
+
 - https://sqlite.org/fiddle/index.html
 
-- https://sqlitebrowser.org
+- https://sqlitebrowser.org (پیشنهاد می‌کنم)
     - https://sqlitebrowser.org/dl
         - DB Browser for SQLite - .zip (no installer) for 64-bit Windows
 
