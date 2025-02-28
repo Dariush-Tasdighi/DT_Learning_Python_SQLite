@@ -61,8 +61,7 @@ python -m pip install -U ipywidgets
 python -m pip list
 ```
 
-We write / edit / run Source Codes!
-
+Now! We Create / Modify / Delelte / Run Source Codes!
 
 ```shell
 deactivate
